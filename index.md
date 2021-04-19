@@ -4,7 +4,7 @@
 
 ### Week 1 Update 
 
-####Progress 
+#### Progress 
 - Deployed the tensorflow model and deployed the data and built the data with pre-processing script.
 
 - Downloaded the Inference/Evaluation data set [GLUE](https://github.com/nyu-mll/GLUE-baselines) and did the training/evaluation on the coda dataset
