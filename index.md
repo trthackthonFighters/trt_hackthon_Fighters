@@ -2,6 +2,20 @@
 
 英伟达-阿里 2021 TRT 44 组 Fighters:
 
+### Week 1 Update 
+
+####Progress 
+- Deployed the tensorflow model and deployed the data and built the data with pre-processing script.
+
+- Downloaded the Inference/Evaluation data set [GLUE](https://github.com/nyu-mll/GLUE-baselines) and did the training/evaluation on the coda dataset
+
+- Convert the meta data of the model to .pb format of tensorflow.
+
+- Run the sample in tensor plugin and profiling 
+
+#### Blocking Issues
+
+- Error in convert .pb to onnx format: Try to convert to trt directly
 
 You can use the [editor on GitHub](https://github.com/mengbingrock/trt_hackthon_44_Fighters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
